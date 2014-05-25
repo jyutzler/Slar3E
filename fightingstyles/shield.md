@@ -1,4 +1,6 @@
-This fighting style applies to any weapon/shield combination. 
+This fighting style applies to any two weapon combination, similar to what a Ranger would traditionally use. 
+Weapon Focus and its successors apply to shields and a single [weapon group](http://www.d20srd.org/srd/variant/buildingCharacters/weaponGroupFeats.htm),
+but only when both are wielded.
 
    1. [Weapon Focus](http://www.d20srd.org/srd/feats.htm#weaponFocus), [Shield Specialization](http://dndtools.eu/feats/players-handbook-ii--80/shield-specialization--2594/)
    1. [Improved Shield Bash](http://www.d20srd.org/srd/feats.htm#improvedShieldBash)
