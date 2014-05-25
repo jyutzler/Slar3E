@@ -14,7 +14,7 @@ This fighting style applies to any weapon/shield combination.
    1. [Greater Weapon Specialization](http://www.d20srd.org/srd/feats.htm#greaterWeaponSpecialization)
    1. [Greater Two-weapon Fighting](http://www.d20srd.org/srd/feats.htm#greaterTwoWeaponFighting)
    1. [Shield Slam](http://dndtools.eu/feats/complete-warrior--61./shield-slam--2592/) (any attack)
-   1. [Melee Weapon Mastery](http://dndtools.eu/feats/players-handbook-ii--80/melee-weapon-mastery--1917/)
+   1. [Melee Weapon Mastery](../feats/meleeweaponmastery.md)
    1. [Weapon Supremacy](http://dndtools.eu/feats/players-handbook-ii--80/weapon-supremacy--3125/)
    
    
